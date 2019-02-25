@@ -23,7 +23,7 @@
 {
     'name': 'Foldable Menu',
     'category': 'Extra Tools', 
-    'version': '10.0.1.1.0',
+    'version': '11.0.1.0.1',
     'summary': "To Fold and Collapse the Left side Menus in Odoo",
     'description': 'no_warning',
     'author': 'Murali Krishna Reddy',
