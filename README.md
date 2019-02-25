@@ -3,4 +3,4 @@ To Fold and Collapse the Left Side Menu in Odoo
 
 Installation command:
 
-`pip install git+https://github.com/Horanet/menu_foldable.git#egg=odoo10_addon_menu_foldable`
+`pip install git+https://github.com/Horanet/payment_tipiregie.git@11.0#egg=odoo11_payment_tipiregie`
